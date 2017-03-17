@@ -1,0 +1,92 @@
+reviewer database
+	sem_one
+		id
+		professor
+		subject
+		title
+		content
+		time_elapsed
+
+	sem_two
+		id
+		professor
+		subject
+		title
+		content
+		time_elapsed
+	admin
+		id
+		user
+		password
+
+	questions
+		id_student
+		questions
+								time_elapsed
+								student
+								id_student	
+								user 
+								password
+								id_number
+								time_elapsed 
+dashboard
+-------for users---------------------
+choose sem_one or two
+	choose subjects
+			Vb.net
+			(professor)
+				prelim
+				-title
+					-content 
+						-time_elapsed
+				midterm
+				-title
+					-content 
+						-time_elapsed
+				final
+				-title		
+					-content 
+						-time_elapsed
+questions
+	-users can post here
+		questions
+		time_lapsed
+------- for admin -------------------
+sem_ one or two
+edit
+	subjects reviewer
+		`vb.net
+		prelim
+			-content 
+			midterm
+				-content
+					final
+						-content
+		`database
+		prelim
+			-content 
+			midterm
+				-content
+					final
+						-content
+				
+		`photoshop
+		prelim
+			-content 
+			midterm
+				-content
+					final
+						-content 
+		`soc sci
+		prelim
+			-content 
+			midterm
+				-content
+					final
+						-content
+				http://www.palancaawards.com.ph/Testing3/uncategorized/winners-for-2015-65th-carlos-palanca-memorial-awards/
+				http://www.palancaawards.com.ph/Testing3/wp-content/uploads/2016/09/Mag-ambahan-tayo.pdf
+				http://www.palancaawards.com.ph/Testing3/wp-content/uploads/2016/09/Johnson-at-Putol-Maikling-Kuwento-Filipino-Division.pdf
+				https://www.youtube.com/watch?v=t1LpFn1OHa0
+				vb.net tutorial
+				http://howtostartprogramming.com/vb-net/
